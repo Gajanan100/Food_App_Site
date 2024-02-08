@@ -1,0 +1,64 @@
+@media screen and (max-width:768px) {
+    .g_banner img {
+        width: 340px;
+        height: 343px;
+        position: relative;
+        left: 0;
+    }
+    .g_dish{
+        width: 350px;
+    }
+    .a_menus{
+        width:30% !important;
+    }
+    .g_content svg{
+        width: 100%;
+        position: relative;
+        text-align: center;
+        margin-top: 230px;
+    }
+    .g_banner .g_dish{
+        z-index:1;
+        position: absolute;
+        left: 0;
+      }
+    .g_content_shape{
+        position: absolute;
+        left:-160px;
+        font-size: 12px;
+        text-align: center;
+    }
+    .g_content_shape h1{
+        font-size: 2rem;
+        margin-top: 140px;
+        font-weight: 700;
+    }
+    .g_content_shape p{
+        position: relative;
+        left:50px;
+       width: 60%;
+       
+    }
+    .g_testimonial .g_testimonial_img_box p{
+        line-height: 1px !important;
+        font-size: 1px !important;
+    }
+    .g_testimonial 
+    {
+        height: 790px ;
+       margin-bottom: 0px !important;
+    }
+    .g_testimonial .carousel     { 
+        padding-bottom: 700px;
+        
+    }
+
+     .g_form .g_forms h1{
+        font-size: 40px !important;
+
+    }
+      .g_oraganic{
+        height: 350px;
+    }
+
+}
